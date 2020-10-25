@@ -1,0 +1,127 @@
+{
+    "all_en" : [
+        {
+            "id" : 1,
+            "name": "Ahmed Ali Mahdy",
+            "status": "Under Review",
+            "major": "Engineering"
+        },
+        {
+            "id" : 2,
+            "name": "Mohamed abdelrahman taha",
+            "status": "Initial Acceptance",
+            "major": "Medicine"
+        },
+        {
+            "id" : 3,
+            "name": "Maher Shady Ali",
+            "status": "Conditional Acceptance",
+            "major": "Pharmacy"
+        },
+        {
+            "id" : 4,
+            "name": "Yehia Bassam Elsayed",
+            "status": "Initial Acceptance",
+            "major": "Medicine"
+        },
+        {
+            "id" : 5,
+            "name": "Zakaria Adel Yousef",
+            "status": "Conditional Acceptance",
+            "major": "Engineering"
+        },
+        {
+            "id" : 6,
+            "name": "Achraf Mohamed Kamal",
+            "status": "Under Review",
+            "major": "Engineering"
+        },
+        {
+            "id" : 7,
+            "name": "Malek Zidan Mansour",
+            "status": "Conditional Acceptance",
+            "major": "Pharmacy"
+        },
+        {
+            "id" : 8,
+            "name": "Mahmoud abdelrheem Ali",
+            "status": "Rejected",
+            "major": "Engineering"
+        },
+        {
+            "id" : 9,
+            "name": "Yassen Malek Ramy",
+            "status": "Rejected",
+            "major": "Medicine"
+        },
+        {
+            "id" : 10,
+            "name": "Khaled Samy Kamal",
+            "status": "Rejected",
+            "major": "Pharmacy"
+        }
+    ],
+
+    "all_ar" : [
+        {
+            "id" : 1,
+            "name": "أحمد علي مهدي",
+            "status": "قيد المراجعة",
+            "major": "هندسة"
+        },
+        {
+            "id" : 2,
+            "name": "محمد عبد الرحمن طه",
+            "status": "قبول مبدئي",
+            "major": "طب"
+        },
+        {
+            "id" : 3,
+            "name": "ماهر شادي علي",
+            "status": "قبول مشروط",
+            "major": "صيدلة"
+        },
+        {
+            "id" : 4,
+            "name": "يحيى بسام السيد",
+            "status": "قبول مبدئي",
+            "major": "طب"
+        },
+        {
+            "id" : 5,
+            "name": "زكريا عادل يوسف",
+            "status": "قبول مشروط",
+            "major": "هندسة"
+        },
+        {
+            "id" : 6,
+            "name": "أشرف محمد كمال",
+            "status": "قيد المراجعة",
+            "major": "هندسة"
+        },
+        {
+            "id" : 7,
+            "name": "مالك زيدان منصور",
+            "status": "قبول مشروط",
+            "major": "صيدلة"
+        },
+        {
+            "id" : 8,
+            "name": "محمود عبد الرحمن علي",
+            "status": "مرفوض",
+            "major": "هندسة"
+        },
+        {
+            "id" : 9,
+            "name": "ياسين مالك رامي",
+            "status": "مرفوض",
+            "major": "طب"
+        },
+        {
+            "id" : 10,
+            "name": "خالد سامي كمال",
+            "status": "مرفوض",
+            "major": "صيدلة"
+        }
+    ]
+}

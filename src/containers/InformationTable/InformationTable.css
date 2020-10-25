@@ -1,0 +1,11 @@
+.nav-link{
+    color: rgb(117, 117, 117);
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: rgb(75, 75, 75) !important;
+  background-color: transparent !important;
+  border-bottom: 3px solid rgb(41, 58, 212);
+
+}

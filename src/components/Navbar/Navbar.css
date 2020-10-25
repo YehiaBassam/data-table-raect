@@ -1,0 +1,62 @@
+
+.navbar{
+    height: 100px;
+    margin-bottom: 25px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar .div_icon{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+    .navbar{
+        height: 200px;
+    }
+
+    .navbar .div_icon{
+        margin-left: auto;
+    }
+    .navbar .div_lang{
+        margin: auto;
+    }
+}
+
+
+.navbar:hover {
+    box-shadow: 0 11px 10px rgba(165, 165, 165, 0.808), 0 10px 10px rgba(170, 170, 170, 0.712);
+}
+
+    
+.navbar .social .button_lang {
+    padding: 8px 10px;
+    border-radius: 5px;
+    transition: background-color .3s ease-in-out;
+    cursor: pointer;
+    }
+
+.navbar ul {
+    list-style: none;
+    }
+
+.navbar .social #en_click {
+    background-color: rgb(87, 86, 86);
+    color: #FFF;
+    margin-right: 10px ;
+    }
+
+.navbar .social #ar_click {
+    background-color:rgb(4, 110, 231);
+    color: #FFF;
+    }
+
+.navbar .social #ar_click:hover,.navbar .social #en_click:hover {
+    background-color: rgb(139, 139, 139) ;
+    }
